@@ -11,8 +11,8 @@ var layout_rows = 3;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   ["2196F3", "Hamclock", "https://vkcc.ozcn.eu.org/", "1"],
-  ["2196F3", "Contest-Rank", "https://www.hamradiocontest.com/", "1",],
-  ["2196F3", "Contest-Info", "https://contest.run/#/", "1",],
+  ["2196F3", "Contest-RankList", "https://www.hamradiocontest.com/", "1",],
+  ["2196F3", "Contest-LiveScore", "https://contest.run/#/", "1",],
   ["2196F3", "RBN", "https://reversebeacon.net/main.php?zoom=1.07,149.44,2.00&rows=100&spotters=1&max_age=5,hours&spotted_call=vk&hide=distance_mi", "1",],
   ["2196F3", "DX-HEAT", "https://dxheat.com/dxc/", "1.1"],
   ["2196F3", "Solar", "https://solar.w5mmw.net/", "1"],
