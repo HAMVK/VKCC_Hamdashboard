@@ -18,7 +18,7 @@ var aURL = [
   ["2196F3", "3830-Scores", "https://www.3830scores.com/index.php", "1",],
   ["2196F3", "Contest-RankList", "https://www.hamradiocontest.com/", "1",],
   ["2196F3", "QSL Card", "https://qsl.vkcc.dpdns.org/", "1",],
-  ["2196F3", "Log Analyse", "https://sh6.vkcc.dpdns.org/", "1",]
+  ["2196F3", "Log Analyse", "https://sh6.vkcc.dpdns.org/", "1",],
   ["2196F3", "Windy", "https://windy.app/map/#c=-38.2231,145.16252&z=10", "1", "R"],
   ["2196F3", "TIME-IS", "https://time.is/", "1", "R"],
   ["2196F3", "WEATHER", "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=-38.3158&lon=145.6952&zoom=8", "1", "R"],
