@@ -15,7 +15,6 @@ var aURL = [
   ["2196F3", "Holy-Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "RBN", "https://reversebeacon.net/main.php?zoom=1.07,149.44,2.00&rows=100&spotters=1&max_age=5,hours&spotted_call=vk&hide=distance_mi", "1",],
   ["2196F3", "DX-HEAT", "https://dxheat.com/dxc/", "1"],
-  ["2196F3", "Solar", "https://solar.w5mmw.net/", "1"],
   ["2196F3", "3830-Scores", "https://www.3830scores.com/index.php", "1",],
   ["2196F3", "Contest-RankList", "https://www.hamradiocontest.com/", "1",],
   ["2196F3", "QSL Card", "https://qsl.vkcc.dpdns.org/", "1",],
